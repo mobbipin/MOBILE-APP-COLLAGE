@@ -1,9 +1,9 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:flutter/material.dart';
 
-const Color cream = Color(0xFFF1E6FF);
+const Color cream = Color(0xFFdbc5c6);
 const Color orange = Color.fromRGBO(255, 131, 3, 1);
-const Color brown = Color(0xFF6F35A5);
+const Color brown = Color(0xFF330001);
 const Color black = Color.fromRGBO(27, 26, 23, 1);
 
 const kWelcomeScreen = TextStyle(
